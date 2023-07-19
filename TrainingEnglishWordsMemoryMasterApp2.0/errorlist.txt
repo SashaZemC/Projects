@@ -1,0 +1,5 @@
+ErrorTextSTART
+1Trouble with setting.txt
+2Incorrect recource filename
+3Trouble with about.txt
+ErrorTextEND
